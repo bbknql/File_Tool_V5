@@ -27,3 +27,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## License
 
 [MIT](LICENSE)
+# Patch 1759779042 - Corrects off-by-one error in pagination
