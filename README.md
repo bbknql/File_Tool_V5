@@ -1,20 +1,15 @@
 # File_Tool_V5
 
-A modern implementation focusing on simplicity and performance.
+Adds internationalization support
 
-## Quick Start
+## Setup
 
-```bash
+```
 pip install -r requirements.txt
-python main.py
 ```
 
-## Features
+## Run
 
-- Clean architecture
-- Comprehensive testing
-- Well documented
-
-## License
-
-MIT
+```
+python main.py
+```
